@@ -8,8 +8,26 @@
 
 [DocMatcher](https://felixhertlein.github.io/doc-matcher/) - CVPR 2025
 
-[SAM](https://arxiv.org/pdf/2408.00714)
 
 ### Датасеты:
 
 [Inv3D Dataset](https://felixhertlein.github.io/inv3d/#Downloads) - на нём обучали DocMatcher
+
+
+
+## Задача сегментации страницы документа на изображении
+
+
+
+### Постановка
+
+Пусть имеется изображение (цветное, с фоном) сдвинутого относительно осей и плоскости камеры текстового документа. Нужно отделить пиксели, принадлежаащие документу, от принадлежащих фону.
+
+
+### Решение
+
+[SAM](https://arxiv.org/pdf/2408.00714)
+
+### Датасеты
+
+[Segment Anything Video (SA-V) Dataset](https://github.com/facebookresearch/sam2/blob/main/sav_dataset/README.md)
