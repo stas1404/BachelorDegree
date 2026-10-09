@@ -8,6 +8,8 @@
 
 [DocMatcher](https://felixhertlein.github.io/doc-matcher/) - CVPR 2025
 
+[SAM](https://arxiv.org/pdf/2408.00714)
+
 ### Датасеты:
 
 [Inv3D Dataset](https://felixhertlein.github.io/inv3d/#Downloads) - на нём обучали DocMatcher
